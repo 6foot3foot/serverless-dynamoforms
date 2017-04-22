@@ -1,0 +1,21 @@
+{
+  "name": "serverless-dynamoforms",
+  "version": "0.0.1",
+  "description": "A Serverless Node.js implementation of DynamoDB forms.",
+  "author": "The Cloud Guild",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.43.0",
+    "lodash": "^4.17.4",
+    "uuid": "^3.0.1",
+    "vandium": "^3.3.0"
+  },
+  "devDependencies": {
+    "serverless-plugin-browserify": "^1.1.3"
+  }
+}

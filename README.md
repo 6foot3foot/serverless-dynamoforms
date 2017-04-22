@@ -28,4 +28,11 @@ This is an implementation of a dynamic forms application running on the serverle
 * CMS
 
 
+## Getting Started
+# Install Serverless
+# >npm install serverless -g
+# >npm install
 
+
+## Deploy
+# >serverless deploy
